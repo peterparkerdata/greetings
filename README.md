@@ -1,0 +1,2 @@
+# greetings
+Collection of greetings
